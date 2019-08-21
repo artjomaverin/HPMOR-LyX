@@ -56,8 +56,8 @@ initials
 \shortcut idx
 \color #008000
 \end_index
-\paperwidth 8.25in
-\paperheight 10.75in
+\paperwidth 6in
+\paperheight 9in
 \leftmargin 0.5in
 \topmargin 0.875in
 \rightmargin 0.625in
@@ -67,7 +67,7 @@ initials
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
-\papercolumns 2
+\papercolumns 1
 \papersides 2
 \paperpagestyle default
 \tracking_changes false
@@ -1406,52 +1406,6 @@ as many points as it takes
 
 \begin_layout Standard
 Then Harry lifted his other hand, said “Abracadabra,” and snapped his fingers.
-\begin_inset Float figure
-placement bp
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Graphics
-	filename 013-abracadabra_by_dinosaurusgede-d31nnh7.png
-	lyxscale 30
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "80col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status collapsed
-
-\begin_layout Plain Layout
-
-\size small
-Then Harry lifted his other hand, said “Abracadabra,” and snapped his fingers.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard

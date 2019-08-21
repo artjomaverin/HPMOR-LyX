@@ -56,8 +56,8 @@ initials
 \shortcut idx
 \color #008000
 \end_index
-\paperwidth 8.25in
-\paperheight 10.75in
+\paperwidth 6in
+\paperheight 9in
 \leftmargin 0.5in
 \topmargin 0.875in
 \rightmargin 0.625in
@@ -67,7 +67,7 @@ initials
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
-\papercolumns 2
+\papercolumns 1
 \papersides 2
 \paperpagestyle default
 \tracking_changes false
@@ -1304,65 +1304,6 @@ A frown crossed Albus Dumbledore's face as he took a step forward and took
 
 \begin_layout Standard
 On it was the single word “NO”, and nothing more.
-\begin_inset Float figure
-wide false
-sideways false
-status collapsed
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Graphics
-	filename 060-dumbledore__s_crumpled_scrap_by_dinosaurusgede-d33de3i.png
-	lyxscale 30
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\align center
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "80col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status collapsed
-
-\begin_layout Plain Layout
-
-\size small
-And the old wizard blinked in surprise; there was a scrap of parchment in
- that spot.
-\end_layout
-
-\begin_layout Plain Layout
-
-\size small
-A frown crossed Albus Dumbledore's face as he took a step forward and took
- the crumpled scrap, unfolding it.
-\end_layout
-
-\begin_layout Plain Layout
-
-\size small
-On it was the single word “NO”, and nothing more.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
