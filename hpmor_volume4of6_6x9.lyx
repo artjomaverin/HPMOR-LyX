@@ -679,12 +679,6 @@ pagestyle{simple}
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand include
-filename "Notes88.lyx"
-
-\end_inset
-
 
 \end_layout
 
