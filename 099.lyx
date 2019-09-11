@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume4_16x23.lyx
+\master hpmor_volume5_6x9.lyx
 \begin_modules
 initials
 \end_modules
@@ -56,8 +56,8 @@ initials
 \shortcut idx
 \color #008000
 \end_index
-\paperwidth 8.25in
-\paperheight 10.75in
+\paperwidth 6in
+\paperheight 9in
 \leftmargin 0.5in
 \topmargin 0.875in
 \rightmargin 0.625in
@@ -67,7 +67,7 @@ initials
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
-\papercolumns 2
+\papercolumns 1
 \papersides 2
 \paperpagestyle default
 \tracking_changes false

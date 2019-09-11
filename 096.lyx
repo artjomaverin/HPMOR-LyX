@@ -47,7 +47,7 @@
 \frenchspacing
 \end_preamble
 \use_default_options true
-\master hpmor_volume4_16x23.lyx
+\master hpmor_volume5_6x9.lyx
 \begin_modules
 initials
 \end_modules
@@ -99,8 +99,8 @@ initials
 \shortcut idx
 \color #008000
 \end_index
-\paperwidth 16cm
-\paperheight 23cm
+\paperwidth 6in
+\paperheight 9in
 \leftmargin 2.1cm
 \topmargin 1.8cm
 \rightmargin 1.8cm

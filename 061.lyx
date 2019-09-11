@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume2_16x23.lyx
+\master hpmor_volume3_6x9.lyx
 \begin_modules
 initials
 \end_modules
@@ -56,8 +56,8 @@ initials
 \shortcut idx
 \color #008000
 \end_index
-\paperwidth 8.25in
-\paperheight 10.75in
+\paperwidth 6in
+\paperheight 9in
 \leftmargin 0.5in
 \topmargin 0.875in
 \rightmargin 0.625in
@@ -67,7 +67,7 @@ initials
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language english
-\papercolumns 2
+\papercolumns 1
 \papersides 2
 \paperpagestyle default
 \tracking_changes false
@@ -234,28 +234,10 @@ status open
  They paused before the door while Albus whispered something, and a moment
  later one of the customers visible through the windows stood up with a
  vague look on his face and opened the door as though taking a quick look
- outside for some friend; and the four
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-The original text says 
-\begin_inset Quotes eld
-\end_inset
-
-three
-\begin_inset Quotes erd
-\end_inset
-
-.
- Should be a typo.
-\end_layout
-
-\end_inset
-
- of them were through, racing past the unwitting customers (Severus was
- marking their faces, Minerva knew, and Albus would see any Disillusioned)
- toward the sign that pointed to the washroom 
+ outside for some friend; and the three of them were through, racing past
+ the unwitting customers (Severus was marking their faces, Minerva knew,
+ and Albus would see any Disillusioned) toward the sign that pointed to
+ the washroom 
 \begin_inset ERT
 status open
 
