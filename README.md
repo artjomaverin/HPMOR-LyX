@@ -28,4 +28,3 @@ Regards
 - https://github.com/ianstormtaylor for the amazing covers
 - https://github.com/IlCensore for the original LyX files
 - Eva Gentner for all formatting in Adobe InDesign
->>>>>>> develop
