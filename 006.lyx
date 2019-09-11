@@ -18,6 +18,7 @@
 \XeTeXinterchartoks \fontextras 255 = {\rmfont}% what to do when going from any character in your class to boundary
 \end_preamble
 \use_default_options true
+\master hpmor_volume1_6x9.lyx
 \begin_modules
 initials
 \end_modules

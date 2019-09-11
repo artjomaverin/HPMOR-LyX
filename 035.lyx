@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume1_16x23.lyx
+\master hpmor_volume2_6x9.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -110,7 +110,8 @@ hey
 
 \end_inset
 
-
+ had gone to the Defence Professor’s office, and Professor Quirrell had
+ sealed the door before he leaned back in his chair and spoke.
 \end_layout
 
 \begin_layout Standard

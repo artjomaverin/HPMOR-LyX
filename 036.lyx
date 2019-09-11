@@ -4,7 +4,7 @@
 \begin_header
 \textclass memoir
 \use_default_options true
-\master hpmor_volume1_16x23.lyx
+\master hpmor_volume2_6x9.lyx
 \begin_modules
 theorems-ams
 eqs-within-sections
@@ -96,7 +96,17 @@ W
 
 \end_inset
 
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
 renching
+\end_layout
+
+\end_inset
+
+
 \begin_inset ERT
 status open
 
